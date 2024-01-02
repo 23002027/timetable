@@ -14,6 +14,7 @@ Add your timetable
 Execute the program
 
 # CODE
+``````
 <!DOCTYPE html>
 <html>
 <head>
@@ -113,6 +114,9 @@ OUPUT
 </table>
 </body>
 </html>
-
+``````
 # OUTPUT
 ![image](https://github.com/23002027/timetable/assets/139752981/81cd3b93-f5cb-4cb8-b0c3-b89f24846dae)
+
+# Result
+Thus the program was executed successfully.
